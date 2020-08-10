@@ -1,0 +1,14 @@
+{
+  "name": "azure-functions-express-template",
+  "version": "1.0.0",
+  "description": "A small template to get started with Azure Functions & a minimalist Express app.",
+  "scripts": {
+    "start": "func start"
+  },
+  "author": "Chris Hurst",
+  "license": "MIT",
+  "dependencies": {
+    "azure-function-express": "^2.0.0",
+    "express": "^4.17.1"
+  }
+}
